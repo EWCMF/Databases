@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ModifiedCitiesAndLanguages.iml" filepath="$PROJECT_DIR$/ModifiedCitiesAndLanguages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Databases.iml" filepath="$PROJECT_DIR$/Databases.iml" />
     </modules>
   </component>
 </project>
